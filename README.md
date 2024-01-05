@@ -7,7 +7,7 @@
 - 🤐 Повышенный уровень конфиденциальности
 
 ## 📦 Список продуктов:
-- 🤝 WalletConnect
+- 🤝 [WalletConnect](https://docs.walletconnect.com/getting-started)
 - 💻 Web3.js / eth.js
 - …
 - 📚 [url/docs/demo](#)
