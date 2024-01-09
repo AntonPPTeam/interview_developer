@@ -15,6 +15,8 @@ Framework: React.js, это данность, так сложилось исто
 
 - 🤝 [WalletConnect] [docs](https://docs.walletconnect.com/getting-started)/demo
 - 💻 [Web3.js](https://web3js.readthedocs.io/) / [ether.js](https://docs.ethers.org/) ...добавить....
+- https://walletlink.xyz/#/
+- https://github.com/bitcoin/bips/blob/master/bip-0072.mediawiki , https://en.bitcoin.it/wiki/BIP_0021
 - …
 - 📚 [url/docs/demo](#)
 
