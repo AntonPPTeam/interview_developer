@@ -42,18 +42,10 @@ const wagmiConfig = defaultWagmiConfig({ chains, projectId, metadata });
 createWeb3Modal({ wagmiConfig, projectId, chains });
 
 export default function App({ Component, pageProps }: AppProps) {
-	const [ready, setReady] = useState(false);
 
-	useEffect(() => {
-		setReady(true);
-	}, []);
 	return (
-		<>
-			{ready ? (
-				<WagmiConfig config={wagmiConfig}>
+		<WagmiConfig config={wagmiConfig}>
 					<Component {...pageProps} />
-				</WagmiConfig>
-			) : null}
-		</>
+		</WagmiConfig>
 	);
 }
